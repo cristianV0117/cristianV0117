@@ -1,4 +1,4 @@
-### Hi there 👋, I am Cristian Vasquez and i FullStack developer
+### Hi there 👋, I am Cristian Vasquez and I am a FullStack developer
 #### Welcome to my profile.
 ![Welcome to my profile.](https://peru.impreza.host/wp-content/uploads/2020/02/PHP-developer.jpg)
 
