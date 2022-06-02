@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Cristian Vasquez and I am a FullStack developer
 #### Welcome to my profile.
-![Welcome to my profile.](https://peru.impreza.host/wp-content/uploads/2020/02/PHP-developer.jpg)
+![Welcome to my profile.](https://i.ytimg.com/vi/MCp2kBmc-9k/maxresdefault.jpg)
 
 I have been a FullStack software developer for 5 years, a student of Systems Engineering and with work experience in multiple companies in important sectors in commerce and technology, applying my knowledge and skills in the development field.
 Musician in the free afternoons and passionate about movies and anime.
