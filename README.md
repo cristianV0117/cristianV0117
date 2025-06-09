@@ -8,11 +8,6 @@
 
 ---
 
-### 🛠 Skills
-**LARAVEL** / **SYMFONY** / **REACT** / **NEXT.js**
-
----
-
 ### 🚀 Projects & Learning
 - 🔭 Currently working on: [Over API App](https://over-api-application-production.up.railway.app/)
 - 🌱 Currently learning: **DDD**, **TDD**, **NestJS**, **Hexagonal Architecture**, **Next.js**
