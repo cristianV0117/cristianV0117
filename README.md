@@ -1,4 +1,4 @@
-### Hi there 👋, I am Cristian Vasquez – FullStack Developer
+### Hi there 👋, I am Cristian Vasquez – Backend Developer
 
 #### Welcome to my profile  
 ![Welcome to my profile.](https://i.ytimg.com/vi/MCp2kBmc-9k/maxresdefault.jpg)
@@ -20,13 +20,31 @@
 
 ---
 
+## 📚 I'm also a Udemy Instructor
+
+🎓 [Principios SOLID y patrones de desarrollo en PHP](https://www.udemy.com/course/principios-solid-y-patrones-de-desarrollo-en-php/)  
+🔐 [API REST en Laravel con arquitectura hexagonal y JWT](https://www.udemy.com/course/api-rest-hecho-en-laravel-con-arquitectura-hexagonal-y-jwt/)
+
+---
+
+## 🧰 Tools and Technologies
+
+<div align="center">
+  
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,php,ts,laravel,lumen,nextjs,nestjs,nodejs,mysql,mongodb,docker,git,linux,redis,vscode,postman,jwt" /><br/>
+<img src="https://img.shields.io/badge/Architecture-DDD%20%7C%20Hexagonal-9cf?style=flat-square">
+<img src="https://img.shields.io/badge/MQ-RabbitMQ-orange?style=flat-square&logo=rabbitmq&logoColor=white">
+
+</div>
+
+---
+
 ### 📫 Contact Me
 
 - 💌 Email: [cvo6372@gmail.com](mailto:cvo6372@gmail.com)
 - 🐙 GitHub: [github.com/cristianV0117](https://github.com/cristianV0117)
 - 💼 LinkedIn: [linkedin.com/in/cristian-camilo-vasquez-osorio-1b791b1a3](https://www.linkedin.com/in/cristian-camilo-vasquez-osorio-1b791b1a3/)
 - 🌐 Portfolio: [mi-portafolio-personal.herokuapp.com](https://mi-portafolio-personal.herokuapp.com/)
-
 
 ---
 
