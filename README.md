@@ -14,18 +14,9 @@ Skills: LARAVEL / SYMFONY / REACT / NEXT JS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/cristianV0117)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/cristian-camilo-vasquez-osorio-1b791b1a3/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mi-portafolio-personal.herokuapp.com/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianV0117)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=cristianV0117&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=cristianV0117)  
-
-![GitHub metrics](https://metrics.lecoq.io/cristianV0117)  
-
-![Profile views](https://gpvc.arturio.dev/cristianV0117)
-
+![Visitors](https://komarev.com/ghpvc/?username=cristianV0117&color=blue)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianV0117)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cristianV0117&show_icons=true)
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cristianV0117&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Visitors](https://komarev.com/ghpvc/?username=cristianV0117&color=blue)
+
 
