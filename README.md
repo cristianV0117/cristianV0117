@@ -22,10 +22,10 @@
 
 ### 📫 Contact Me
 
-[![Email](https://img.shields.io/badge/email-cvo6372@gmail.com-blue?style=flat&logo=gmail)](mailto:cvo6372@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-cristianV0117-black?style=flat&logo=github)](https://github.com/cristianV0117)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cristian%20Vasquez-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/cristian-camilo-vasquez-osorio-1b791b1a3/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-green?style=flat&logo=vercel)](https://mi-portafolio-personal.herokuapp.com/)
+- 💌 Email: [cvo6372@gmail.com](mailto:cvo6372@gmail.com)
+- 🐙 GitHub: [github.com/cristianV0117](https://github.com/cristianV0117)
+- 💼 LinkedIn: [linkedin.com/in/cristian-camilo-vasquez-osorio-1b791b1a3](https://www.linkedin.com/in/cristian-camilo-vasquez-osorio-1b791b1a3/)
+- 🌐 Portfolio: [mi-portafolio-personal.herokuapp.com](https://mi-portafolio-personal.herokuapp.com/)
 
 
 ---
