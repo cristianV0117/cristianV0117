@@ -22,4 +22,10 @@ Skills: LARAVEL / SYMFONY / REACT / NEXT JS
 
 ![GitHub metrics](https://metrics.lecoq.io/cristianV0117)  
 
-![Profile views](https://gpvc.arturio.dev/cristianV0117)  
+![Profile views](https://gpvc.arturio.dev/cristianV0117)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianV0117)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=cristianV0117&show_icons=true)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cristianV0117&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Visitors](https://komarev.com/ghpvc/?username=cristianV0117&color=blue)
+
