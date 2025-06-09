@@ -21,10 +21,12 @@
 ---
 
 ### 📫 Contact Me
-- 📧 Email: **cvo6372@gmail.com**
-- [![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/cristianV0117) [GitHub Profile](https://github.com/cristianV0117)  
-- [![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)](https://www.linkedin.com/in/cristian-camilo-vasquez-osorio-1b791b1a3/) [LinkedIn Profile](https://www.linkedin.com/in/cristian-camilo-vasquez-osorio-1b791b1a3/)  
-- [![Portfolio](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg)](https://mi-portafolio-personal.herokuapp.com/) [Personal Portfolio](https://mi-portafolio-personal.herokuapp.com/)
+
+[![Email](https://img.shields.io/badge/email-cvo6372@gmail.com-blue?style=flat&logo=gmail)](mailto:cvo6372@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-cristianV0117-black?style=flat&logo=github)](https://github.com/cristianV0117)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cristian%20Vasquez-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/cristian-camilo-vasquez-osorio-1b791b1a3/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-green?style=flat&logo=vercel)](https://mi-portafolio-personal.herokuapp.com/)
+
 
 ---
 
