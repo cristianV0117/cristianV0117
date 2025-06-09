@@ -1,7 +1,6 @@
 ### Hi there 👋, I am Cristian Vasquez – Backend Developer
 
 #### Welcome to my profile  
-![Welcome to my profile.](https://i.ytimg.com/vi/MCp2kBmc-9k/maxresdefault.jpg)
 
 👨‍💻 I have been a FullStack software developer for **6 years** and a Systems Engineering student.  
 💼 I’ve worked in several companies in key commerce and tech sectors, applying solid skills in backend and frontend development.  
